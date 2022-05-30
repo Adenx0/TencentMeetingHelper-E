@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
+*.e linguist-language=e
+*.bak linguist-language=e
 * text=auto
