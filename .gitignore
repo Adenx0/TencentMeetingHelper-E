@@ -12,3 +12,4 @@ build/TencentMeetingHelper.exe
 build/libraries/krnln.fnr
 build/libraries/EThread.fne
 build/subroutine/signal-test.exe
+*.exe
