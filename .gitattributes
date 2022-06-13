@@ -1,6 +1,7 @@
 # Auto detect text files and perform LF normalization
 *.e linguist-language=e
 *.bak linguist-language=e
+help_file.cmd linguist-language=Batch
 *.cmd linguist-language=Batch
 *.bat linguist-language=Batch
 *.chm linguist-language=HTML
