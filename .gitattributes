@@ -2,4 +2,7 @@
 * text=auto
 *.e linguist-language=e
 *.bak linguist-language=e
-
+*.cmd linguist-language=Batch
+*.bat linguist-language=Batch
+*.chm linguist-language=HTML
+*.htm linguist-language=HTML
